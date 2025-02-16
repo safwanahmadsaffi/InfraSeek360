@@ -124,13 +124,6 @@ Planned features for future releases:
 
 ---
 
-## Credits 🙌
-
-This project was inspired by [Fireship's video](https://www.youtube.com/@Fireship) on building VS Code extensions—thank you for providing such a great foundation!  
-
-Special thanks to [Ollama](https://ollama.ai/) for enabling local AI capabilities with their amazing tools.
-
----
 
 ## Contributing 🤝
 
