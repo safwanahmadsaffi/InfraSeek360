@@ -30,7 +30,7 @@ Welcome to the **DeepSeek VS Code Extension**! This extension integrates **DeepS
 ### Prerequisites
 - [Visual Studio Code](https://code.visualstudio.com/) installed on your system.
 - [Node.js](https://nodejs.org/) installed for development and packaging.
-- [Ollama](https://ollama.ai/) installed and configured locally for running the DeepSeek R1 model.
+- [DeepSeek]([https](https://chat.deepseek.com/)) installed and configured locally for running the DeepSeek R1 model.
 
 ### Steps to Install
 1. Clone this repository:
